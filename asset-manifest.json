@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoApp3D/static/css/main.8955be85.css",
+    "main.js": "/CryptoApp3D/static/js/main.52981afd.js",
+    "static/media/coin.png": "/CryptoApp3D/static/media/coin.a85b6de0dc4a013ae2f8.png",
+    "static/media/eth.png": "/CryptoApp3D/static/media/eth.a85b6de0dc4a013ae2f8.png",
+    "index.html": "/CryptoApp3D/index.html",
+    "main.8955be85.css.map": "/CryptoApp3D/static/css/main.8955be85.css.map",
+    "main.52981afd.js.map": "/CryptoApp3D/static/js/main.52981afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8955be85.css",
+    "static/js/main.52981afd.js"
+  ]
+}
